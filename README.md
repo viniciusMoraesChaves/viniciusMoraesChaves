@@ -1,7 +1,7 @@
 ### Hi, I’m Vinicius Chaves👋
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusMoraesChaves&show_icons=true&theme=transparent)
-
+***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusMoraesChaves&layout=compact)
 ### Programming Languages
 <div style="display: inline-block"><br>
